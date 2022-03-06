@@ -1,0 +1,10 @@
+Para hacer mi primer commit:
+creo el repositorio en github.
+cd eclipse-workspace/
+cd Programacion/
+git init
+git add .
+git commit -m 'mi primer commit'
+git remote add origin 'https://github.com/Gabriel-Silva-Lopez/ProgramacionJava.git'
+git pull --rebase origin main
+git push origin main
